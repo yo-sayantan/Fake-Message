@@ -1,0 +1,9 @@
+This was our project for Trident Hackathon.
+
+After executing the code in Jupyter notebook the trained model will be saved in the directory.
+The training datas are in ghe .csv format.
+The final_model.sav is the trained model.
+The GUI_copy file is the Tkinter UI connected with the trained model at the backened.
+This UI accepts string and gives output as True or Fake.
+
+Thank You.
